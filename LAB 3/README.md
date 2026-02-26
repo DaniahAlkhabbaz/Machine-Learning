@@ -1,4 +1,3 @@
 DATASET DESCRIPTION 
-
 This dataset contains 50,000 user records analyzing smartphone usage behavior and its relationship with productivity, sleep patterns, stress levels, and lifestyle habits. It includes demographic information (age, gender, occupation), device type, daily phone usage hours, social media usage, productivity scores, sleep duration, stress levels, caffeine intake, and app usage frequency.
 The dataset is clean, well-structured, and contains no missing values, making it suitable for exploratory data analysis (EDA), statistical analysis, and machine learning tasks such as regression, classification, and clustering.
