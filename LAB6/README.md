@@ -1,1 +1,2 @@
+I loaded and explored the Ecommerce Customers dataset. I noticed that some columns such as Email, Address, and Avatar are non-numeric, so I excluded them before performing correlation and modeling. Then, I selected the relevant features and defined the target variable (Yearly Amount Spent). I applied a Linear Regression model using a train-test split and generated predictions. Finally, I evaluated the model using metrics like MAE, MSE, and RMSE, and visualized the results using scatter plots and residual distributions.
 
